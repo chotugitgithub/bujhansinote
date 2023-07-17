@@ -10,9 +10,7 @@
 <body>
    <div><body >
         
-    </body>  
-    <pre>
-    </pre><body bgcolor="yellowgreen"></body>
+    
 <div>
 <html><h1 align ="center">BUNDELKHAND UNIVERSITY, JHANSI</h1><hr>
 
